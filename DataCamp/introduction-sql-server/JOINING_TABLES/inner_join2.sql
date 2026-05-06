@@ -11,3 +11,13 @@ ORDER BY o.OrderDate DESC;
 
 -- kısaca her 2 tabloda ortak eleman ile birleştirilir. CustomerID ortak elemandır
 
+
+-- ! SYNTAX
+/*
+* SELECT
+* 	table_A.columnX,
+* 	table_A.columnY,
+* 	table_B.columnZ
+* FROM table_A
+* INNER JOIN table_B ON table_A.foreign_key = table_B.primary_key;
+*/
