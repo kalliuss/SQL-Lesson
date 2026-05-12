@@ -6,7 +6,7 @@ Her bölüm bittiğinde yenisi yayınlanacaktır.
 ## Eğitimler
 
 - [SQL'e Giriş](https://app.datacamp.com/learn/courses/introduction-to-sql) — Completed ✅
-- [SQL Server Giriş](https://app.datacamp.com/learn/courses/introduction-to-sql-server) — Pending ⌛
+- [SQL Server Giriş](https://app.datacamp.com/learn/courses/introduction-to-sql-server) — Completed ✅
 
 ## Bağlantılar
 
